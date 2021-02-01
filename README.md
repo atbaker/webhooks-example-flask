@@ -1,6 +1,9 @@
+**Warning:** This project is no longer maintained.
+Go to [this tutorial](https://www.twilio.com/docs/usage/tutorials/how-to-secure-your-flask-app-by-validating-incoming-twilio-requests) for updated information about securing your Flask App for Twilio requests.
+
 # Webhooks Example (Flask)
 
-An example application that demonstrates how to build webhooks with Twilio and Flask, [visit this link](//www.local.twilio.com/docs/guides/webhooks/python#flask).
+An example application that demonstrates how to build webhooks with Twilio and Flask, [visit this link](//www.twilio.com/docs/guides/webhooks/python#flask).
 
 ### Development
 
